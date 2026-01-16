@@ -25,7 +25,7 @@ The part of the app that does all the thinking uses JavaScript's ability to hand
 #OUTPUT:
 
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f3dc9586-fcdb-4bfb-9e41-522dc06c23b6" />
-<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/7d7df55c-7cc4-4701-9776-f315d6c935aa" />
 <img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/ab27dce8-e502-4511-a840-2bb98f6b8493" />
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/7d7df55c-7cc4-4701-9776-f315d6c935aa" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/f3dc9586-fcdb-4bfb-9e41-522dc06c23b6" />
 
